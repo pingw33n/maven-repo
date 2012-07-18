@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.xiph.speex</groupId>
+  <artifactId>jspeex-codec</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.8-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120718143725</lastUpdated>
+  </versioning>
+</metadata>

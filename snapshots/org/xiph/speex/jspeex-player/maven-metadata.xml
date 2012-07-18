@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.xiph.speex</groupId>
+  <artifactId>jspeex-player</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.8-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120718143726</lastUpdated>
+  </versioning>
+</metadata>
