@@ -10,4 +10,5 @@
 
     <name>JLayer</name>
     <description>MP3 decoder/player/converter library for Java™ platform.</description>
+    <url>http://www.javazoom.net/javalayer/javalayer.html</url>
 </project>
